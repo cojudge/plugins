@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "leetcode-1000",
+      "name": "LeetCode 1000",
+      "description": "A 950-problem archive grouped by pattern: arrays & hashing, union find, segment tree, prefix sum, simulation, design and more.",
+      "source": "cojudge/leetcode-1000",
+      "version": "1.0.0",
+      "problems": 950
+    }
+  ]
+}
