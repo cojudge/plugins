@@ -10,11 +10,19 @@
       "problems": 50
     },
     {
+      "id": "neetcode-250",
+      "name": "NeetCode 250",
+      "description": "NeetCode 150 plus 100 more problems across the same patterns: arrays & hashing through bit manipulation.",
+      "source": "cojudge/neetcode-250",
+      "version": "1.0.0",
+      "problems": 250
+    },
+    {
       "id": "leetcode-1000",
       "name": "LeetCode 1000",
       "description": "A 950-problem archive grouped by pattern: arrays & hashing, union find, segment tree, prefix sum, simulation, design and more.",
       "source": "cojudge/leetcode-1000",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "problems": 950
     }
   ]
