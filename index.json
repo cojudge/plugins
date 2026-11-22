@@ -2,6 +2,14 @@
   "version": 1,
   "plugins": [
     {
+      "id": "basic-50",
+      "name": "Basic 50",
+      "description": "50 original introductory problems for new programmers: if/else, loops, arrays, strings, nested loops and recursion. Start here before Blind 75.",
+      "source": "cojudge/basic-50",
+      "version": "1.0.0",
+      "problems": 50
+    },
+    {
       "id": "leetcode-1000",
       "name": "LeetCode 1000",
       "description": "A 950-problem archive grouped by pattern: arrays & hashing, union find, segment tree, prefix sum, simulation, design and more.",
